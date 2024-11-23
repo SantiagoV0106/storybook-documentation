@@ -1,0 +1,22 @@
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn--primary {
+  background-color: #3939FF;
+  color: #fff;
+}
+
+.btn--secondary {
+  background-color: #F2BB05;
+  color: #fff;
+}
+
+.btn--danger {
+  background-color: #FF3F3F;
+  color: #fff;
+}
